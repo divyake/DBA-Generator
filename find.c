@@ -1,4 +1,4 @@
-// C program to determine class, Network , direct broadcast address
+// C program to determine class, Network , direct broadcast addressx
 // and Host ID of an IPv4 address 
 #include<stdio.h> 
 #include<string.h> 
